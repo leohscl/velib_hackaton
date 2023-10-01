@@ -37,10 +37,10 @@ courses_velo_specifique['LINE'] = [(LineString([[a.x, a.y],[b.x, b.y]]) if b!=No
 courses_velo_lines = gpd.GeoDataFrame(courses_velo_specifique, geometry='LINE')
 
 
-fig, ax = plt.subplots(figsize=(8, 6))
+fig, ax = plt.subplots()
 districts.plot(ax=ax, alpha=0.5, edgecolor="white")
 # add alternating colors for lines
-colors = ['r' if i % 2 == 0 else 'g' for i in range(geo_stations_line.shape[0])]
+colors = ['r' if i % 2 == 0 else 'g' for i in range(courses_velo_lines.shape[0])]
 
 # plot points and lines
 courses_velo_specifique.plot(ax=ax)
@@ -52,4 +52,5 @@ for x, y, label in zip(courses_velo_specifique.geometry.x, courses_velo_specifiq
 
 ax.set_axis_off()
 ctx.add_basemap(ax)
-plt.show()
+# plt.show()
+plt.savefig('../img/one_velib_30_trips.png')
