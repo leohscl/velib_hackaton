@@ -1,0 +1,24 @@
+Base de données: Régulation mouvements ateliers
+
+Ces dossiers concernent la régulation liée aux injections de vélos sur le terrain, vélos réparés chaque jour en atelier.
+Deux dossiers sont disponibles : ateliers-vers-stations et stations-vers-ateliers. Le premier contient les fichiers des déposes de vélos depuis les ateliers, après réparations (Injections de vélos).
+Ces injections sont un élément important de régulation, permettant d'alimenter en vélos des stations structurellement vides.
+Le second regroupe les fichiers des prises de vélos vers les ateliers et avant réparations (Ramasse de vélos).
+
+- Description des colonnes des fichiers ateliers-vers-stations:
+
+	- Nom station dépose: Nom de la station sur laquelle les vélos ont été déposés.
+	- Latitude station prise : Latitude de la station sur laquelle les vélos ont été déposés.
+	- Longitude station prise : Longitude de la station sur laquelle les vélos ont été déposés.
+	- Total : Nombre total de vélos déposés par les agents (égal à la somme des colonnes VAE et VM).
+	- VAE : Nombre total de vélos à assistance électrique (Vélos bleus).
+	- VM : Nombre total de vélos sans assistance électrique ou vélos mécaniques (Vélos verts).
+
+- Description des colonnes des fichiers stations-vers-ateliers:
+
+	- Nom station prise : Nom de la station de laquelle les vélos ont été pris.
+	- Latitude station prise : Latitude de la station de laquelle les vélos ont été pris.
+	- Longitude station prise : Longitude de la station de laquelle les vélos ont été pris.
+	- Total : Nombre total de vélos transportés pris par les agents (égal à la somme des colonnes VAE et VM).
+	- VAE : Nombre total de vélos à assistance électrique (Vélos bleus).
+	- VM : Nombre total de vélos sans assistance électrique ou vélos mécaniques (Vélos verts).

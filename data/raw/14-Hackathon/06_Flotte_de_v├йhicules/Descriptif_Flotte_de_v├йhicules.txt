@@ -1,0 +1,13 @@
+Flotte de véhicules
+
+Il est à noter qu'en temps normal (hors-pannes et évènements exceptionnels), Smovengo dispose d'une flotte de 80 véhicules "propres" (électriques ou hybrides au gaz naturel pour véhicule) disponibles pour différents usages:
+	- Déplacer les vélos vers ou depuis les ateliers afin de les réparer.
+	- Faire de la régulation.
+	- Permettre aux agents de se déplacer sur une station du parc pour effectuer des réparations sur celle-ci et/ou sur les vélos qu'elle contient.
+
+Les véhicules suivants permettent de transporter des vélos:
+
+	- 22 camions d'une capacité de 6 vélos.
+	- 18 camions d'une capacité de 15 vélos.
+	- 15 camions "plateau" d'une capacité de 13 vélos.
+	- 6 camions "plateau" d'une capacité de 15 vélos.

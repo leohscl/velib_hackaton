@@ -1,0 +1,20 @@
+Base de données: Régulation mouvements stations
+
+Un fichier regroupe par jour les mouvements de régulation (déplacement de vélos d'une station à tendance pleine vers une autre station à tendance vide) réalisés par les agents Smovengo sur le terrain.
+Il est important de noter que la régulation peut être effectuée de différentes manières. Ces fichiers ne contiennent pas, par exemple, les vélos déposés par les agents depuis les ateliers 
+et après réparations sur les stations vides.
+
+- Description des colonnes des fichiers:
+
+	- Nom station prise : Nom de la station de laquelle les vélos ont été pris.
+	- Latitude station prise : Latitude de la station de laquelle les vélos ont été pris.
+	- Longitude station prise : Longitude de la station de laquelle les vélos ont été pris.
+	- Nom station dépose: Nom de la station sur laquelle les vélos ont été déposés.
+	- Latitude station dépose : Latitude de la station sur laquelle les vélos ont été déposés.
+	- Longitude station dépose : Longitude de la station sur laquelle les vélos ont été déposés.
+	- Total : Nombre total de vélos transportés entre les deux stations par l'agent (égal à la somme des colonnes VAE et VM).
+	- VAE : Nombre total de vélos à assistance électrique (Vélos bleus) transportés entre les deux stations par l'agent.
+	- VM : Nombre total de vélos sans assistance électrique ou vélos mécaniques (Vélos verts) transportés entre les deux stations par l'agent.
+
+
+

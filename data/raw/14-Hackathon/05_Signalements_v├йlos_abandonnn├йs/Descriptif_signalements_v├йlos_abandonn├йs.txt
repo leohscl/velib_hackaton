@@ -1,0 +1,12 @@
+Base de données: Signalements vélos abandonnés
+
+Un fichier regroupe par mois l'ensemble des signalements de vélos abandonnés effectués par les usagers du service Vélib' Métropole via l'application
+mobile, le site internet Vélib' ou depuis le totem d'une station. Un vélo abandonné est un vélo hors-station qui nécessite l'intervention d'un opérateur
+pour soit le remettre en station, soit l'amener à l'atelier si celui-ci a besoin d'opérations de maintenance.
+
+- Description des colonnes des fichiers:
+
+	- Date de signalement: Date et heure (Horaire de Paris) à laquelle le signalement a été effectué.
+	- Numéro de vélo: Numéro du vélo déclaré comme abandonné.
+	- Localisation: Adresse postale du signalement (quand le champs est au format rue, code postal, ville) ou nom de la station vélib sur laquelle le
+		        signalement a été effectué (Exemple: Grande Rue - Europe)
