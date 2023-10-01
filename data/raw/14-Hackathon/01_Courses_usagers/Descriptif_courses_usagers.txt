@@ -1,0 +1,22 @@
+Base de données: Courses usagers
+
+Un fichier regroupe par jour (en fonction de la date d'arrivée) les courses effectuées par les usagers du service Vélib' Métropole. Certaines courses ont été enlevées des fichiers pour supprimer le maximum d'informations incohérentes. Les distances, durées et vitesses maximum proviennent de capteurs électroniques qui peuvent être défectueux. Ainsi, il est possible que certaines incohérences persistent.
+
+- Description des colonnes des fichiers:
+
+	- Numéro de vélo : Numéro du vélo utilisé par l'usager pour effectuer la course.
+	- Assistance électrique : Indique (si la case contient le mot 'VRAI') que le vélo dispose d'une assistance électrique (Vélo bleu).
+	- ID utilisateur : Identifiant de l'utilisateur réalisant la course. L'identifiant est identique pour un même usager dans l'ensemble des fichiers(sur les deux périodes).
+	- Date départ : Date et heure (Horaire de Paris) à laquelle la course a commencé.
+	- Date arrivée : Date et heure (Horaire de Paris) à laquelle la course s'est terminée.
+	- Distance parcourue en mètres : Distance (en mètres) parcourue par l'usager.
+	- Durée en secondes : Durée du trajet en secondes.
+	- Vitesse maximum : Vitesse maximum en km/h de l'usager pendant son trajet.
+	- Nom station départ : Nom de la station de départ.
+	- Latitude station départ : Latitude de la station de départ.
+	- Longitude station départ : Longitude de la station de départ.
+	- Statut station départ : Statut de la station de départ: 'VIDE', 'PLEINE' ou 'NORMALE'. Cette variable dépend du nombre de vélos présents sur la station lors du départ de la course. Cette information est notamment utilisée pour le calcul des minutes bonus.
+	- Nom station arrivée : Nom de la station d'arrivée.
+	- Latitude station arrivée : Latitude de la station d'arrivée.
+	- Longitude station arrivée : Longitude de la station d'arrivée.
+	- Statut station arrivée : Statut de la station d'arrivée : 'VIDE', 'PLEINE' ou 'NORMALE'. Cette variable dépend du nombre de vélos présents sur la station lors de la fin de la course. Cette information est notamment utilisée pour le calcul des minutes bonus.

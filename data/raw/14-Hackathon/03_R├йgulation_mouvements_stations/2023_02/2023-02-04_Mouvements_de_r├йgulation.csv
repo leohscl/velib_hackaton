@@ -1,0 +1,51 @@
+"Nom station prise","Latitude station prise","Longitude station prise","Nom station dépose","Latitude station dépose","Longitude station dépose",Total,VAE,VM
+"Javel - André Citroën","48,846276485475","2,27863680571318","Edgar Quinet - Gaité","48,8411609289663","2,32459545135498",13,2,11
+"Place de la Montagne du Goulet","48,8443415","2,2773844","Charles de Gaulle - Plateau de Vanves","48,8223308897326","2,29857180341289",12,2,10
+"Eugène Oudiné - Dessous Des Berges","48,8256423","2,3750226","Bobillot - Paulin Mery","48,8298998417474","2,35433567667485",9,1,8
+"La Jarry - Place Diderot","48,8497269403673","2,45201379060745","Fabre d'Eglantine - Place de la Nation","48,8471116","2,3956204",11,4,7
+"Gabriel Péri - Danielle Casanova","48,790114","2,4025777","Cours de Vincennes - Soult","48,846918761569","2,4105220288038",13,7,6
+"Place Marcel Cachin","48,8141144235687","2,39090770483017","François Debergue - Croix de Chavaux","48,8574217080721","2,4375781416893",3,0,3
+"Place Marcel Cachin","48,8141144235687","2,39090770483017","Louis Lumière.","48,8621619807001","2,41112578185621",6,0,6
+"Gouthière - Poterne des Peupliers","48,820507","2,351342","Château - Place de Catalogne","48,836805542262","2,3185293003917",9,0,9
+"Aristide Briand - Place de la Résistance","48,8212424840101","2,25110024213791","Terroirs de France - Lheureux","48,8321202707484","2,38861810415983",6,0,6
+"Censier - Jardin des Plantes","48,8410717816138","2,35547538846731","Place de la Nation - Picpus","48,846821681548","2,4001130461693",13,1,12
+"David Weill - Parc Montsouris","48,8210923742561","2,33372569084167","Boulard - Daguerre","48,8344647268061","2,32933860272169",9,4,5
+"Javel - André Citroën","48,846276485475","2,27863680571318","Château - Place de Catalogne","48,836805542262","2,3185293003917",7,0,7
+"Javel - André Citroën","48,846276485475","2,27863680571318","Boyer - Ménilmontant","48,8688951626791","2,39198241456346",6,0,6
+"Gare RER - Maurice Grandcoing","48,813881","2,392429","Louis Ganne - Davout","48,8633872069261","2,40972574800253",8,2,6
+"Gare RER - Maurice Grandcoing","48,813881","2,392429","Pyrénées - Ménilmontant","48,8693268535238","2,39508457481861",3,0,3
+"Gare RER - Maurice Grandcoing","48,813881","2,392429","Méchain - Faubourg Saint-Jacques","48,8358677209948","2,33798034198275",5,0,5
+"Eugène Oudiné - Dessous Des Berges","48,8256423","2,3750226","Maine - Jean Zay","48,837925263898","2,3225428909063",13,2,11
+"Place Marcel Cachin","48,8141144235687","2,39090770483017","Frères Flavien - Porte des Lilas","48,8780992764359","2,41104629853209",13,2,11
+"Censier - Jardin des Plantes","48,8410717816138","2,35547538846731","Gare Montparnasse - René Mouchotte","48,8392038432924","2,32088394463062",9,3,6
+"Mornay - Sully","48,8497039954842","2,3644607886672","Gare du Nord - Denain","48,879595787608","2,3544725775719",8,0,8
+"Convention - Saint-Charles","48,843156111116","2,28310905396938","René Coty - Place Denfert-Rochereau","48,833056477316","2,3329411447048",8,0,8
+"Saint-Marcel - Hôpital","48,839504424583","2,36098941702293","Pyrénées - Ménilmontant","48,8693268535238","2,39508457481861",5,2,3
+"Terroirs de France - Lheureux","48,8321202707484","2,38861810415983","Porte d'Ivry","48,8217687475965","2,36887067556381",13,0,13
+"Gare de Lyon - Roland Barthes","48,8439572949406","2,37908821552992","Gare Montparnasse - René Mouchotte","48,8392038432924","2,32088394463062",9,0,9
+"Bercy - Villot","48,841795009027","2,3767850184816","Boyer - Ménilmontant","48,8688951626791","2,39198241456346",11,1,10
+"Gare de Lyon - Chalon","48,845666194202","2,3741452395916","René Coty - Place Denfert-Rochereau","48,833056477316","2,3329411447048",13,1,12
+"Place Ginette Hamelin","48,837853","2,382064","Louis Ganne - Davout","48,8633872069261","2,40972574800253",5,2,3
+"Place Ginette Hamelin","48,837853","2,382064","Paganini - Davout","48,85135","2,412021",3,0,3
+"François Truffaut - Saint Emilion","48,8337235434481","2,38660190327143","Boyer - Ménilmontant","48,8688951626791","2,39198241456346",8,0,8
+"Bercy - Villot","48,841795009027","2,3767850184816","Assemblée Nationale","48,8614110146519","2,32012141852077",9,0,9
+"Gabriel Lamé","48,8351212784276","2,38553456962109","Louis Ganne - Davout","48,8633872069261","2,40972574800253",3,0,3
+"Guersant - Gouvion-Saint-Cyr","48,882877751786","2,28766737081487","Cimetière de Montmartre","48,8864724661419","2,33289018273354",15,3,12
+Olympiades,"48,826764665199","2,3650860786438","Bobillot - Moulin des Prés","48,8286573462031","2,35302064631696",12,7,5
+Bercy.,"48,839966914994","2,3788625746965","Porte de Charenton","48,8312401058564","2,39891074597836",15,0,15
+"Félix Faure - Lourmel","48,8386890170951","2,28180818259716","Place de la Porte de Châtillon","48,8242469","2,3186306",13,0,13
+"Jonquière - Docteur Paul Brousse","48,894799816684","2,31870521217322","Guy Môquet - Compoint","48,8921355904487","2,32321947813034",12,0,12
+"Boutroux - Porte de Vitry","48,822632","2,377738","René Coty - Parc Montsouris","48,8247913449803","2,3361249268055",12,1,11
+"Greneta - Sebastopol","48,865242333228","2,3516669869423","Gérando - Rochechouart","48,88294340845","2,3464846238494",11,0,11
+"Paul Klee - Place Augusta Holmes","48,838946417408","2,3704235663953","Place d'Italie - Soeur Rosalie","48,831908520394","2,3546943448098",12,2,10
+"Leredde - Tolbiac","48,82887629664","2,3744382709265","Place d'Italie - Soeur Rosalie","48,831908520394","2,3546943448098",10,1,9
+"Mairie du 3ème","48,8644617813914","2,36176282167435","Caulaincourt - Place Constantin Pecqueur","48,8896779050281","2,33817871442611",15,0,15
+"Porte de Clichy - Place des Nations Unies","48,8967372633095","2,31054299919639","Navier - Epinettes","48,8958778076915","2,32267767190933",10,0,10
+"Porte de Clignancourt - Ney","48,8996411239871","2,34432142227888","Mairie du 18ème","48,8929392969376","2,34455108642578",3,1,2
+"M.- A. Lagroua Weill-Hallé -  F. Dolto","48,8285952838574","2,38022060626611","Santé - Arago","48,8350765756206","2,34157372620449",12,1,11
+"Danielle Casanova - Ledru-Rollin","48,8157834978768","2,38325972110033","Maxime Gorki - Paul Vaillant-Couturier","48,7967350879544","2,36833423376083",13,5,8
+"Terroirs de France - Lheureux","48,8321202707484","2,38861810415983","Indre - Prairies","48,8625439850678","2,40329045802355",9,3,6
+"Primo Levi - Frigos","48,8309484484602","2,37965351592796","Place d'Italie - Vincent Auriol","48,831481874467","2,3567550292319",13,10,3
+"Terroirs de France - Lheureux","48,8321202707484","2,38861810415983","Place d'Italie - Soeur Rosalie","48,831908520394","2,3546943448098",13,6,7
+"Gare de Lyon - Chalon","48,845666194202","2,3741452395916","Pyrénées - Charles Renouvier","48,8609593322922","2,40042185204211",8,0,8
+"BNF - Bibliothèque Nationale de France","48,8350268238","2,3760157451034","Choisy - Tolbiac","48,82591155587","2,3602393269539",4,0,4

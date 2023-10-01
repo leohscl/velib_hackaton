@@ -1,0 +1,22 @@
+Base de données: Historique remplissage des stations
+
+Un fichier regroupe par jour l'ensemble des évolutions du nombre de vélos/places dans chaque station du parc. Un enregistrement est effectué à chaque changement d'état de la station ou 
+toutes les minutes si plusieurs changements sont effectués rapidement.
+
+- Description des colonnes des fichiers:
+
+	- Code station : Code de la station concernée.
+	- Nom station : Nom de la station concernée.
+	- longitude : Longitude de la station.
+	- latitude : Latitude de la station.
+	- Date mise à jour : Date et heure (Horaire de Paris) à laquelle l'enregistrement de l'état de la station a été effectué.
+	- VM disponibles : Nombre de vélos mécaniques (Vélos verts) disponibles pour les usagers dans la station.
+	- VAE disponibles : Nombre de vélos à assistance électrique (Vélos bleus) disponibles pour les usagers dans la station.
+	- VM indisponibles : Nombre de vélos mécaniques indisponibles aux usagers dans la station (Dont les vélos mécaniques à réparer).
+	- VAE indisponibles : Nombre de vélos à assistance électrique indisponibles aux usagers dans la station (Dont les vélos à assistance électrique à réparer).
+	- Nombre de diapasons disponibles : Nombre de places en diapasons disponibles dans la station.
+	- VM disponibles (Station +) : Nombre de vélos mécaniques (Vélos verts) disponibles pour les usagers sur les câbles de la station (Si la station est équipée du dispositif station +).
+	- VAE disponibles (Station +) : Nombre de vélos à assistance électrique (Vélos bleus) disponibles pour les usagers sur les câbles de la station (Si la station est équipée du dispositif station +).
+	- VM indisponibles (Station +) : Nombre de vélos mécaniques indisponibles aux usagers sur les câbles de la station (Si la station est équipée du dispositif station +).
+	- VAE indisponibles (Station +) : Nombre de vélos à assistance électrique indisponibles aux usagers sur les câbles de la station (Si la station est équipée du dispositif station +).
+	- Nombre de cables disponibles (Station +) : Nombre de câbles disponibles sur la station (Si la station est équipée du dispositif station +).

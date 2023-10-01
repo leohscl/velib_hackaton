@@ -1,0 +1,54 @@
+"Nom station prise","Latitude station prise","Longitude station prise","Nom station dépose","Latitude station dépose","Longitude station dépose",Total,VAE,VM
+"Pierre Lefaucheux - Traversière","48,8243520830383","2,2417913004756","Sablons - Georges Mandel","48,863875","2,28189",6,0,6
+"Boussingault - Tolbiac","48,8260351660585","2,34217680800433","Harpe - Saint-Germain","48,851518815017","2,3436703160405",6,0,6
+"Champeaux - Gallieni","48,8644591346846","2,41617780178785","Terroirs de France - Lheureux","48,8321202707484","2,38861810415983",6,0,6
+"Wurtz - Tolbiac","48,8263119562101","2,34458595514297","Place d'Italie - Soeur Rosalie","48,831908520394","2,3546943448098",3,0,3
+"Jouffroy d'Abbans - Wagram","48,8819732983516","2,30113215744495","Courcelles - Place des Ternes","48,8781999289231","2,2992860188665",9,5,4
+"Jean Lolive - Parc Stalingrad","48,8920617440316","2,40917354822159","Toffier Decaux - Cartier Bresson","48,9016507255155","2,4017545580864",10,5,5
+"René Coty - Parc Montsouris","48,8247913449803","2,3361249268055","Gare Montparnasse - René Mouchotte","48,8392038432924","2,32088394463062",15,5,10
+"Hôtel de Ville de Boulogne Billancourt","48,8349588516678","2,24168032407761","Porte Molitor","48,8452476351143","2,25690152496099",15,3,12
+"Pont De Charenton","48,8179685","2,4199531","Place de la Gare","48,8025335801128","2,42750376462936",4,0,4
+"Hôpital - Campo-Formio","48,835405","2,358218","Chevreuse - Montparnasse","48,841739161231","2,3315522167367",3,0,3
+"Hôpital - Campo-Formio","48,835405","2,358218","Chevreuse - Montparnasse","48,841739161231","2,3315522167367",3,1,2
+"Chazelles - Courcelles ","48,879406604954","2,3034455627203","Place des Ternes.","48,8784386312265","2,2977277636528",10,3,7
+"Hoche - Jean Lolive","48,8911023920079","2,40284353494644","Alexander Fleming - Belvédère","48,8817906420029","2,40305993776427",13,8,5
+"Quai Marcel Boyer - Victor Hugo","48,8225563666673","2,39203959703445","Place d'Italie - Soeur Rosalie","48,831908520394","2,3546943448098",9,1,8
+"Stade Auguste Delaune","48,8089637868388","2,43452042341232","Pirogues de Bercy - Libourne","48,832308","2,38637",3,0,3
+"Stade Auguste Delaune","48,8089637868388","2,43452042341232","Séminaire de Conflans - Liberté","48,823194","2,404179",3,1,2
+"Courcelles - Pierre Demours","48,8837697332735","2,29858466343129","Villiers - Batignolles","48,8812525384612","2,31653843075037",4,0,4
+"Damrémont - Caulaincourt","48,8871450907874","2,33258809894323","Cimetière de Montmartre","48,8864724661419","2,33289018273354",4,4,0
+"Ecole Vétérinaire","48,8148885982249","2,4224362157779","Pirogues de Bercy - Libourne","48,832308","2,38637",3,0,3
+"Pierre Demours - Laugier","48,8813072","2,294846","Gérando - Rochechouart","48,88294340845","2,3464846238494",11,0,11
+"Wilson - Métallurgie","48,9094230100923","2,35844358801842","Place du Maquis du Vercors","48,8773215794936","2,40837827324867",14,8,6
+"Verdun - Adrien Damalix","48,8222334178559","2,42153283208609","Gare Rer de Fontenay sous Bois","48,8436279","2,4630465",6,0,6
+"Jean Jaurès - Jules Jacquemin","48,8843305360484","2,40829024551521","Hôpital Robert Debré","48,8800522220089","2,4008650346327",6,3,3
+"Vasco de Gama","48,8367178346626","2,2836640856508","Maine - Jean Zay","48,837925263898","2,3225428909063",9,0,9
+"Mairie d'Issy","48,8237677924683","2,27231115102768","Gare Montparnasse - Edgar Quinet","48,841487851079","2,3233232282801",12,0,12
+"Hôpital Pitié Salpêtrière","48,8377016","2,3604946","Le Goff - Gay-Lussac","48,8461024009786","2,34122078865767",7,0,7
+"Mairie d'Issy","48,8237677924683","2,27231115102768","Place Balard","48,836395736424","2,2784192115068",3,0,3
+"Place Jean Delay","48,823316","2,354336","Quatre Vents - Carrefour de l'Odéon","48,8517513744589","2,33816169513405",8,2,6
+"Wurtz - Tolbiac","48,8263119562101","2,34458595514297","Montparnasse -  Square Ozanam","48,843310567822","2,3265242949128",9,0,9
+"Lamarck - Saint-Ouen","48,891334555236","2,3272445342326","René Boulanger - Lancry","48,8685433","2,3600032",12,0,12
+"Palais des Sports","48,833468517426","2,2858720645308","Edgar Quinet - Gaité","48,8411609289663","2,32459545135498",9,4,5
+"Gare RER","48,896241412268","2,4595758300992","Square du Théâtre du Garde-Chasse","48,8812873750606","2,42011964321137",13,5,8
+"Liberté - Vert-de-Maisons","48,7901478096084","2,43286281824112","Les Planètes ","48,8099849920804","2,45808530598879",5,2,3
+"Stalingrad - Désiré Chevalier","48,8567016973986","2,44507223367691","Paul Signac - Aristide Briand","48,8695026215637","2,45022609829903",3,2,1
+"Emeriau - Beaugrenelle","48,8479124971494","2,28430598974228","Gare Montparnasse - Vaugirard","48,8418071798797","2,31951002690117",14,0,14
+"Ancien Canal - Hélène Brion","48,8948479929616","2,41883385926485","Hôpital Robert Debré","48,8800522220089","2,4008650346327",11,6,5
+"Claude Bernard - Arbalète","48,839766769782","2,34751090407372","Guynemer - Jardin du Luxembourg","48,8466127","2,3325478",6,0,6
+"Place de l'Eglise - Pantin","48,8928094615203","2,4124351143837","Hôpital Robert Debré","48,8800522220089","2,4008650346327",5,1,4
+"Candale - Mehul","48,8893935006175","2,4143797159195","Place du Président Salvador Allende","48,8973073103561","2,40079153681279",6,5,1
+"Brochant - Clichy","48,8903299891204","2,31973055992978","Gare de Pont-Cardinet","48,8871390147531","2,31449414399426",7,0,7
+"Ranelagh - Maison de la Radio","48,8529360316948","2,28044964373112","Paul Doumer - La Tour","48,8601161096266","2,28084048191106",10,1,9
+"Place de Barcelone - Mirabeau","48,847623027364","2,2735664248466","Exelmans - Michel-Ange","48,8430948665185","2,25977708006691",8,0,8
+"Place Tristan Bernard","48,8791964","2,2915403","Pereire - Saussure","48,888229075478","2,3101296275854",7,0,7
+Olympiades,"48,826764665199","2,3650860786438","Froidevaux - Boulard","48,835147319625","2,3294411972165",6,0,6
+"Transvaal - Charles de Gaulle ","48,8482804036288","2,23734201208572","Jean de la Fontaine - Boulainvilliers","48,8526479146165","2,27586641907692",16,7,9
+"Berthier - Porte de Clichy","48,894222687781","2,3125872006816","Batignolles - Beudant","48,8821640146638","2,31985297054052",7,0,7
+"Enfants du Paradis - Peupliers","48,833122686454","2,2571459412575","Mozart - Jasmin","48,8528612487169","2,26848357065151",15,9,6
+"Rome - Provence","48,8742300555803","2,32557011172411","Batignolles - Abel Truchet","48,8831039045822","2,32383474908838",7,6,1
+"Cours de l'Ile Seguin - Parc Billancourt","48,8271405584394","2,23423451185226","François Ponsard - La Muette ","48,8583666","2,2744515",16,8,8
+"Edouard Poisson - Victor Hugo","48,9111855705262","2,37986475269281","Place du Président Salvador Allende","48,8973073103561","2,40079153681279",14,2,12
+"Jean Jaurès - Jean Baptiste Clément ","48,8457626145401","2,23696500062943","Sablons - Georges Mandel","48,863875","2,28189",8,0,8
+"Quai des Célestins - Henri IV","48,8512971","2,3624535","Hôtel de Ville - Pont-Marie","48,8538996455274","2,35694725066423",3,0,3
+"Gabrielle Josserand - Edouard Vaillant","48,9027156625544","2,3933270573616","Hôpital Robert Debré","48,8800522220089","2,4008650346327",10,7,3
