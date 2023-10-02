@@ -53,5 +53,5 @@ for x, y, label in zip(courses_velo_specifique.geometry.x, courses_velo_specifiq
 
 ax.set_axis_off()
 ctx.add_basemap(ax)
-# plt.show()
-plt.savefig('../img/one_velib_30_trips.png')
+plt.show()
+#plt.savefig('../img/one_velib_30_trips.png')
