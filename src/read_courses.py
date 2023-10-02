@@ -21,7 +21,7 @@ courses["Longitude station départ"] = courses["Longitude station départ"].str.
 courses["Latitude station arrivée"] = courses["Latitude station arrivée"].str.replace(',', '.').astype(float)
 courses["Longitude station arrivée"] = courses["Longitude station arrivée"].str.replace(',', '.').astype(float)
 
-geometry = gpd.points_from_xy(courses["Longitude station départ"], courses["Latitude station arrivée"])
+geometry = gpd.points_from_xy(courses["Longitude station départ"], courses["Latitude station départ"])
 
 geo_stations = gpd.GeoDataFrame(
     courses, crs=4326, geometry=geometry
@@ -47,6 +47,7 @@ courses_velo_specifique.plot(ax=ax)
 courses_velo_lines.plot(ax=ax, colors = colors)
 # geo_stations
 
+# add numbers
 for x, y, label in zip(courses_velo_specifique.geometry.x, courses_velo_specifique.geometry.y, courses_velo_specifique.trip_number):
     ax.annotate(label, xy=(x, y), xytext=(3, 3), textcoords="offset points")
 
